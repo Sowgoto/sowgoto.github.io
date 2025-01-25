@@ -2,55 +2,7 @@ title: Sowgoto Raha Sunny
 logo: /assets/images/Sunny_pic.jpeg
 description: "I am pursuing graduate studies and passionate about technology, design, and creative writing."
 theme: jekyll-theme-minimal
-
-# Optional: Show Downloads Section (if you want to link to downloadable files)
 show_downloads: true
 
 
-navigation:
-  - title: "Home"
-    link: /
-  - title: "About"
-    link: /about
-  - title: "Projects"
-    link: /projects
-  - title: "Contact"
-    link: /contact
-
-
-social_links:
-  - platform: "GitHub"
-    url: "https://github.com/Sowgoto"
-    icon: "/assets/icons/github.svg"
-  - platform: "LinkedIn"
-    url: "https://www.linkedin.com/in/sunny-raha/"
-    icon: "/assets/icons/linkedin.svg"
-  
-
-footer:
-  text: "© 2025 Sowgoto Raha Sunny | All Rights Reserved"
-  contact_email: "your.email@example.com"
-  contact_phone: "+123 456 7890"
-
-# About Section (Add a short description or bio)
-about_section:
-  title: "About Me"
-  description: >
-    Hello! I'm Sowgoto Raha Sunny, currently pursuing graduate studies in the field of technology and design.
-    I am passionate about creating innovative solutions and improving user experiences through design thinking.
-    In my free time, I love to explore new coding languages, contribute to open-source projects, and share my thoughts on tech trends.
-
-# Optional: Custom Styling (Override theme styles)
-custom_css:
-  - "assets/css/styles.css"
-
-# Analytics (Google Analytics or any other tracking)
-analytics:
-  google_analytics: "UA-XXXXXX-X"
-
-# Show Related Posts (For blog-like setup)
-show_related_posts: true
-
-# Pagination
-paginate: 5
 
