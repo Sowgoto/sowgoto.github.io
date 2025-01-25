@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 # Optional: Show Downloads Section (if you want to link to downloadable files)
 show_downloads: true
 
-# Navigation Configuration
+
 navigation:
   - title: "Home"
     link: /
@@ -17,19 +17,16 @@ navigation:
   - title: "Contact"
     link: /contact
 
-# Social Media Links (Icons with URL)
+
 social_links:
   - platform: "GitHub"
-    url: "https://github.com/yourgithubprofile"
+    url: "https://github.com/Sowgoto"
     icon: "/assets/icons/github.svg"
   - platform: "LinkedIn"
-    url: "https://linkedin.com/in/yourlinkedinprofile"
+    url: "https://www.linkedin.com/in/sunny-raha/"
     icon: "/assets/icons/linkedin.svg"
-  - platform: "Twitter"
-    url: "https://twitter.com/yourtwitterhandle"
-    icon: "/assets/icons/twitter.svg"
+  
 
-# Optional: Footer
 footer:
   text: "© 2025 Sowgoto Raha Sunny | All Rights Reserved"
   contact_email: "your.email@example.com"
