@@ -1,9 +1,0 @@
-your-jekyll-site/
-  ├── assets/
-  │    ├── icons/
-  │    │    ├── github.svg
-  │    │    ├── linkedin.svg
-  │    │    ├── twitter.svg
-  ├── _config.yml
-  ├── index.md
-  ├── ...
