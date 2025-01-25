@@ -1,6 +1,7 @@
 # Graduate Teacher Assistant
+  University Of North Texas
 ### Education
-  MS, Cybersecurity
+  MS, Cybersecurity, Department of Computer Science, UNT
 ### Work Experience
   Senior System Engineer @ Dotlines
   - Big impact project 1
