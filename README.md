@@ -32,6 +32,10 @@ Grade: 3.45 on a scale of 4.00
     Cloud Computing Platform: Amazon Web Services(AWS)
     Database: MYSQL, Programming Language: PHP
 
+### Projects 2
+You can download the [project documentation PDF](./AI_in_Edge_Computing.pdf)
+
+
 ## Links
 Check out my LinkedIn profile: [Sunny Raha](https://www.linkedin.com/in/sunny-raha/)
 
