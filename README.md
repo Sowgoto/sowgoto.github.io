@@ -33,4 +33,4 @@ Grade: 3.45 on a scale of 4.00
     Database: MYSQL, Programming Language: PHP
 
 ## Links
-[link_text] (https://www.linkedin.com/in/sunny-raha/)
+[title](https://www.linkedin.com/in/sunny-raha/)
