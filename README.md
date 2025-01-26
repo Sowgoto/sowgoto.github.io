@@ -33,7 +33,8 @@ Grade: 3.45 on a scale of 4.00
     Database: MYSQL, Programming Language: PHP
 
 ### Projects 2
-You can download the [project documentation PDF](./AI_in_Edge_Computing.pdf)
+   -AI in Edge Computing
+   Click here to view the [project documentation PDF](./AI_in_Edge_Computing.pdf)
 
 
 ## Links
