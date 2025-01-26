@@ -1,8 +1,7 @@
 title: Sowgoto Raha Sunny
 logo: assets/images/Sunny pic.jpeg
 description: Graduate Teacher Assistant, University Of North Texas
-<p>{{ site.description }}</p>
-<a href="{{ https://informationscience.unt.edu/index.html }}" target="_blank">Information Science Department</a>
-# show_downloads: true
+department_link: "https://informationscience.unt.edu/index.html"
 theme: jekyll-theme-minimal
+
 
