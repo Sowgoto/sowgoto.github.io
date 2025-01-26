@@ -34,6 +34,7 @@ Grade: 3.45 on a scale of 4.00
 
 ### Projects 2
    -AI in Edge Computing
+   
    Click here to view the [project documentation PDF](./AI_in_Edge_Computing.pdf)
 
 
