@@ -31,5 +31,3 @@ Grade: 3.45 on a scale of 4.00
   - Design & implementation of cloud-based inventory management service forsmall shop owners:
     Cloud Computing Platform: Amazon Web Services(AWS)
     Database: MYSQL, Programming Language: PHP
-### Projects 2
- - [assets/AI_in_Edge_Computing.pdf] (https://www.example.com) 
