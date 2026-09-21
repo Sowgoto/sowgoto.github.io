@@ -1,0 +1,15 @@
+GITHUB PAGES UPLOAD INSTRUCTIONS
+
+1. Extract Sowgoto_Raha_Sunny_Academic_Portfolio.zip.
+2. Open https://github.com/Sowgoto/sowgoto.github.io
+3. Open the Code tab and confirm you are on the branch used by GitHub Pages (usually main).
+4. Back up or remove the old website files from the repository root.
+5. Upload ALL extracted files and folders directly to the repository root.
+   Important: index.html, .nojekyll, assets, files, and the page folders must be directly in the root—not inside another folder.
+6. Commit the changes.
+7. Open Settings > Pages.
+8. Under Build and deployment, select Deploy from a branch.
+9. Select the same branch and the /(root) folder, then Save.
+10. Wait a few minutes and open https://sowgoto.github.io/
+
+If GitHub's web uploader does not show .nojekyll, use GitHub Desktop and commit the extracted folder from there.
