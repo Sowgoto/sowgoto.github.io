@@ -480,5 +480,27 @@ h1, h2, h3 {
 }
 
 
+
+
+/* Only this profile picture */
+.portrait-wrap.profile-square {
+  padding: 0;
+}
+
+.portrait-wrap.profile-square::before {
+  display: none !important;
+  content: none !important;
+}
+
+.portrait-wrap.profile-square .portrait-frame {
+  aspect-ratio: 1 / 1;
+  border-radius: 22px;
+  overflow: hidden;
+}
+
+.portrait-wrap.profile-square .portrait-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   object-position: 50% 42%;
 }
