@@ -125,14 +125,7 @@ button, input, textarea { font: inherit; }
   letter-spacing: .01em;
 }
 .availability .site-container { min-height: 38px; display: flex; align-items: center; gap: 9px; }
-.status-dot {
-  width: 10px;
-  height: 10px;
-  flex: 0 0 10px;
-  border-radius: 50%;
-  background: #16895b;
-  box-shadow: 0 0 0 6px rgba(22, 137, 91, 0.16);
-}
+.status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--lime); box-shadow: 0 0 0 5px rgba(215,240,108,.12); }
 
 .hero {
   min-height: 700px;
