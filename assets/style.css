@@ -161,7 +161,13 @@ h1, h2, h3 {
   line-height: 1.02;
 }
 .hero h1 em { color: var(--green); font-weight: inherit; }
-.hero-lede { max-width: 680px; margin-bottom: 30px; color: var(--muted); font-size: clamp(1.02rem, 1.8vw, 1.22rem); line-height: 1.45; }
+.hero-lede {
+  max-width: 680px;
+  margin-bottom: 30px;
+  color: var(--muted);
+  font-size: clamp(0.98rem, 1.35vw, 1.12rem);
+  line-height: 1.45;
+}
 
 .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 30px; }
 .button {
